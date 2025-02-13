@@ -6,6 +6,7 @@ llm-rag is a project focused on optimizing retrieval and generation tasks, utili
 
 Advanced RAG technology has been proven to be a very effective technology to improve the ability of  LLM to  deal with Natural Language tasks, such as working as a chatbot.In our work,we first leverage Advanced RAG to complete a digital circuit automatic design task, specifically automatically generating whole code of an 8-bit processor with hardware description language. The workflow is shown in Figure.
 
+![图片1](https://github.com/user-attachments/assets/3b7a8049-4a04-4420-bd2e-e7730739f2d6)
 
 #### Software Architecture
 
@@ -16,7 +17,10 @@ This project adopts a modular design with the following main components:
 - **Router for Tool Selection**: Dynamically selects the most suitable retrieval tools or information sources based on user queries.
 - **Advanced Retrieval Strategies**: Includes automatic merged retrieval, hybrid search strategies, etc.
 - **Re-ranking**: Re-ranks retrieved results to enhance relevance.
-![图片1](https://github.com/user-attachments/assets/3b7a8049-4a04-4420-bd2e-e7730739f2d6)
+
+
+<img width="562" alt="RAG框架" src="https://github.com/user-attachments/assets/80fbb25c-231a-42c9-a215-fb11b806dd2c" />
+
 
 #### Installation
 
